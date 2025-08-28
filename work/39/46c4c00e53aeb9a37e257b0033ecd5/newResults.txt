@@ -1,0 +1,1 @@
+sum of numbers mutiplied by 15: 585

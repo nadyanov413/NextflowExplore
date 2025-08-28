@@ -1,2 +1,0 @@
-#!/bin/bash -ue
-echo "Fruit Map: [apple:1.2, bannana:0.5, grapes:3.0]" > fruit.txt

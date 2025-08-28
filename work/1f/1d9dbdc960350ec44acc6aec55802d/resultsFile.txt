@@ -1,4 +1,0 @@
-Input numbers: [1, 2, 3, 4, 5]
-Doubles input: [2, 4, 6, 8, 10]
-Sum of original input: 15
-Even values of original input: [2, 4]
